@@ -18,3 +18,4 @@ This dataset contains e-commerce customer data used for churn analysis and dashb
 
 ## Dashboard
 Built Using Microsoft Power BI
+<img width="1285" height="548" alt="E-Commerce Dashboard" src="https://github.com/user-attachments/assets/1f038d49-19f7-48cb-8cd0-483a9ff5206b" />
